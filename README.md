@@ -1,10 +1,19 @@
-# SistemaCorp
-Sistema desenvolvido para a atividade de estrutures lineares.
+SistemaCorp
 
-Iremos subir o código fonte do sistema aqui caso seja necessário para melhor avaliação da atividade.
+Sistema desenvolvido para a atividade de Estruturas Lineares.
 
-Como executar o sistema em terminal:
-pip install customtkinter /
+O código fonte será disponibilizado neste repositório para avaliação da atividade e para uso futuro.
+
+▶️ Como executar no terminal
+
+Instale a dependência:
+
+pip install customtkinter
+
+Execute o sistema:
+
 python main.py
 
-Eduardo Mafra / João Henrique 
+👥 Integrantes
+Eduardo Mafra
+João Henrique
