@@ -1,0 +1,47 @@
+[
+  {
+    "id": "896A40E2",
+    "nome": "Ana Paula Souza",
+    "cargo": "Desenvolvedora",
+    "departamento": "TI",
+    "salario": 7500.0,
+    "email": "ana.souza@empresa.com",
+    "data_admissao": "23/04/2026"
+  },
+  {
+    "id": "63C5791C",
+    "nome": "Carlos Eduardo Lima",
+    "cargo": "Gerente de Projetos",
+    "departamento": "TI",
+    "salario": 9200.0,
+    "email": "carlos.lima@empresa.com",
+    "data_admissao": "23/04/2026"
+  },
+  {
+    "id": "207E795A",
+    "nome": "Fernanda Rocha",
+    "cargo": "Analista Financeiro",
+    "departamento": "Financeiro",
+    "salario": 6800.0,
+    "email": "fernanda.rocha@empresa.com",
+    "data_admissao": "23/04/2026"
+  },
+  {
+    "id": "DDBE09B7",
+    "nome": "Marcos Vinícius",
+    "cargo": "Designer UX",
+    "departamento": "Marketing",
+    "salario": 5900.0,
+    "email": "marcos.vinicius@empresa.com",
+    "data_admissao": "23/04/2026"
+  },
+  {
+    "id": "EDF79743",
+    "nome": "Juliana Matos",
+    "cargo": "Recursos Humanos",
+    "departamento": "RH",
+    "salario": 5400.0,
+    "email": "juliana.matos@empresa.com",
+    "data_admissao": "23/04/2026"
+  }
+]
